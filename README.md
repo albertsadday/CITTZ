@@ -13,7 +13,7 @@
 Screenshots
 </div></h1>
 <br/>
-<div align='center'>
+<p align="center">
 <img src="https://imgur.com/ocUdviz.jpg" title="CITTZ-Screenshot">
-</div>
+</p>
 
