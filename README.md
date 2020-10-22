@@ -8,7 +8,12 @@
 </div></h1>
 <br/>
 <b>CITTZ</b> es un script que fue hecho principalmente para recuperar contraseñas de wifi en segundos.
-<h1>Screenshots</h1>
+<h1>
+<div align='center'>
+Screenshots
+</div></h1>
 <br/>
+<div align='center'>
 <img src="https://imgur.com/ocUdviz.jpg" title="CITTZ-Screenshot">
+</div>
 
