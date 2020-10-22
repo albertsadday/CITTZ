@@ -13,5 +13,5 @@
 Screenshots
 </div></h1>
 <br/>
-<img src="https://imgur.com/a/kYSeKCU.jpg" title="CITTZ-Screenshot">
+<img src="https://imgur.com/ocUdviz.jpg" title="CITTZ-Screenshot">
 
