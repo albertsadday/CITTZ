@@ -1,2 +1,4 @@
-# cittz
-CITTZ fue hecho principalmente para recuperar tus claves de wifi en segundos!
+<p align="center">
+<img src="imagen cittz" title="CITTZ">
+</p>
+
