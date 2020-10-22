@@ -4,7 +4,8 @@
 
 <br/>
 <br/>
-<h1><center>
+<h1>
+<div align='center'>
 ¿Qué es?
-</center></h1>
+</div></h1>
 <b>CITTZ</b> es un script que fue hecho principalmente para recuperar contraseñas de wifi en segundos.
