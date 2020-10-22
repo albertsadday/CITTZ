@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://imgur.com/t8H61TE.jpg" title="CITTZ">
 </p>
-<br/>
 <h1>
 <div align='center'>
 ¿Qué es?
