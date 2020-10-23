@@ -1,7 +1,7 @@
 REM =====================================
 REM Autor: wrrulos
 REM CITTZ fue hecho principalmente para recuperar tus claves de wifi en segundos!
-REM Version: 1.0
+REM Version: 1.1
 REM Github: https://github.com/wrrulos/cittz
 REM
 REM Discord: Rulo#9224
