@@ -1,0 +1,18 @@
+REM =====================================
+REM Autor: wrrulos
+REM CITTZ fue hecho principalmente para recuperar tus claves de wifi en segundos!
+REM Version: 1.0
+REM Github: https://github.com/wrrulos/cittz
+REM
+REM Discord: Rulo#9224
+REM Instagram: @wrrulos
+REM Twitter: @wrrulos
+REM
+REM =====================================
+REM WFYCO - Waiting for you come out
+REM
+REM Discord: discord.gg/HtCHzDV
+REM Instagram: @wfyco_team
+REM Twitter: @wfyco_team
+REM
+REM =====================================
