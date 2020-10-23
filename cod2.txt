@@ -74,7 +74,7 @@ echo.
 set /p opciones1-w7=# Elije una opcion: 
 
 if %opciones1-w7% == 1 goto opcion1-w7
-if %opciones1-w7% == 2 goto opcion2
+if %opciones1-w7% == 2 goto opcion2-w7
 REM ???
 if %opciones1-w7% == 4 goto opcion4-w7
 if %opciones1-w7% == 5 goto opcion5-w7
@@ -204,6 +204,19 @@ cls
 color 6
 echo.
 echo # Guardado en clave.txt
+echo.
+echo # Presione una tecla para continuar...
+echo.
+pause>nul
+goto menu-w7
+
+:opcion2-w7
+cls
+cd %ubicacion%
+start o2.bat
+color 6
+echo.
+echo # Las claves fueron guardadas en claves.txt
 echo.
 echo # Presione una tecla para continuar...
 echo.
