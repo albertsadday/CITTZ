@@ -27,29 +27,6 @@
 
 ## Screenshots
 
-
-<div align='center'>
-<b>CITTZ</b> es un script que fue hecho principalmente para recuperar contraseñas de wifi en segundos.
-<br/>
-<b>CITTZ</b> es compatible con Windows 7/8/10</p>
-</div></h1>
-<h1>
-<div align='center'>
-Screenshots
-</div></h1>
-<br/>
-<p align="center">
-<img src="https://imgur.com/ocUdviz.jpg" title="CITTZ-Screenshot">
-</p>
-<br/>
-<h1>
-<div align='center'>
-  Version <b>1.1</b>
-</div></h1>
-<br/>
-<div align='center'>
-  <p> Ahora tambien es compatible con Windows 7 </p>
-  <p> Se arreglaron algunos errores </p>
-</div></h1>
+<img src="https://imgur.com/4iF5eiK.jpg">
 
  
