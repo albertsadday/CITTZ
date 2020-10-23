@@ -27,7 +27,7 @@
 
 # Novedades (v1.1)
 
-**1) Compatiblidad **
+**1) Compatiblidad**
 
 - CITTZ ahora es compatible con Windows 7/Vista
 
