@@ -7,10 +7,17 @@
 <br/>
 
 <img src="https://imgur.com/TAuS5PE.jpg"> <img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg"> <img src="https://imgur.com/mCapHNr.jpg"> <img src="https://imgur.com/4mZdxc8.jpg"> <img src="https://imgur.com/x4ikBPI.jpg">
-<h1>
-<div align='center'>
-¿Qué es?
-</div></h1>
+<br/>
+## Versiones de windows compatibles
+
+| Version      |   Estado      |
+|--------------|---------------| 
+| Windows 10   | Compatible    |
+| Windows 8.1  | Compatible    |
+| Windows 8    | Compatible    |
+| Windows 7    | Compatible    |
+| Windows XP   | Compatible    |
+
 <br/>
 <div align='center'>
 <b>CITTZ</b> es un script que fue hecho principalmente para recuperar contraseñas de wifi en segundos.
