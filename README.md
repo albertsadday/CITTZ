@@ -25,6 +25,10 @@
 
 * Ejecutar el archivo CITTZ.bat
 
+# Novedades (v1.1)
+
+*
+
 ## Screenshots
 
 <img src="https://imgur.com/4iF5eiK.jpg">
@@ -33,6 +37,9 @@
 
 <p> No disponible.</p>
 
+## Contribuidores: 
+
+- <a href="https://github.com/oscarsanchezt"> Osososo </a>
 ## Licencia 
 
 MIT License
