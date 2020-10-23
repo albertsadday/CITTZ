@@ -10,6 +10,7 @@
 <br/>
 ## Sistemas Operativos compatibles  
 
+
 |     S.O      |   Estado      |
 |--------------|---------------| 
 | Windows 10   | Compatible    |
@@ -17,8 +18,6 @@
 | Windows 8    | Compatible    |
 | Windows 7    | Compatible    |
 | Windows XP   | Compatible    |
-
-<br/>
 
 ## Instalacion / Ejecutar
 
