@@ -4,7 +4,7 @@ cls
 
 set autor= wrrulos
 set snombre= CITTZ
-set sversion= 1.0
+set sversion= 1.1
 set github= https://github.com/wrrulos/cittz
 set wfyco= wfyco_team 
 set di= ______________________________________________________________________
