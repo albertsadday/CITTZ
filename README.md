@@ -19,6 +19,14 @@
 | Windows XP   | Compatible    |
 
 <br/>
+
+# Instalacion / Ejecutar
+
+* Ir a Code y dar click en Download ZIP
+
+* Ejecutar el archivo CITTZ.bat
+
+
 <div align='center'>
 <b>CITTZ</b> es un script que fue hecho principalmente para recuperar contraseñas de wifi en segundos.
 <br/>
