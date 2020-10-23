@@ -29,7 +29,7 @@
 
 **1) Compatiblidad**
 
-- CITTZ ahora es compatible con Windows 7/Vista
+* CITTZ ahora es compatible con Windows 7/Vista
 
 **2) Bugs**
 
