@@ -31,9 +31,9 @@
 
 - CITTZ ahora es compatible con Windows 7/Vista
 
-* Bugs
+**2) Bugs**
 
-<p> Se arreglaron algunos bugs que habian en las opciones <l>1</l> y <l>2</l>
+* Se arreglaron algunos bugs que habian en las opciones <l>1</l> y <l>2</l>
 
 ## Screenshots
 
