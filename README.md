@@ -19,7 +19,7 @@
 | Windows 7    | Compatible    |
 | Windows XP   | Compatible    |
 
-## Instalacion / Ejecutar
+## Instalacion 
 
 * Ir a Code y dar click en Download ZIP
 
@@ -28,5 +28,12 @@
 ## Screenshots
 
 <img src="https://imgur.com/4iF5eiK.jpg">
+
+## Tutorial 
+
+<p> No disponible.
+
+## Licencia 
+
 
  
