@@ -4,7 +4,8 @@
 <p align="center">
 <img src="https://imgur.com/t8H61TE.jpg" title="CITTZ">
 </p>
-<img src="https://imgur.com/TAuS5PE.jpg">  <img src="https://imgur.com/4NzFbFQ.jpg">  <img src="https://imgur.com/l2vHvj8.jpg">
+
+<img src="https://imgur.com/TAuS5PE.jpg"> <img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg">
 <h1>
 <div align='center'>
 ¿Qué es?
