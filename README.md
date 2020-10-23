@@ -17,4 +17,14 @@ Screenshots
 <p align="center">
 <img src="https://imgur.com/ocUdviz.jpg" title="CITTZ-Screenshot">
 </p>
+<br/>
+<h1>
+<div align='center'>
+  Version <b>1.1</b>
+</div></h1>
+<br/>
+<div align='center'>
+  <p> Ahora tambien es compatible con Windows 7 </p>
+  <p> Se arreglaron algunos errores </p>
+</div></h1>
 
