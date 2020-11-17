@@ -21,19 +21,23 @@
 
 ## Instalacion 
 
+# Metodo 1
+
 * Ir a Code y dar click en Download ZIP
 
-* Ejecutar el archivo CITTZ.bat
+# Metodo 2
 
-# Novedades (v1.1)
+* git clone https://github.com/wrrulos/CITTZ.git
+
+# Novedades (v1.2)
 
 **1) Compatiblidad**
 
-* CITTZ ahora es compatible con Windows 7/Vista
+* CITTZ ahora es compatible con Windows y Linux.
 
-**2) Bugs**
+**2) Apariencia**
 
-* Se arreglaron algunos bugs que habian en las opciones <l>1</l> y <l>2</l>
+* CITTZ ahora tiene un nuevo menu. (Proximamente el menu en windows tendrá colores)
 
 ## Screenshots
 
@@ -46,6 +50,7 @@
 ## Contribuidores: 
 
 - <a href="https://github.com/oscarsanchezt"> Osososo </a>
+
 ## Licencia 
 
 MIT License
