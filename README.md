@@ -8,7 +8,8 @@
 
 <img src="https://imgur.com/TAuS5PE.jpg"> <img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg"> <img src="https://imgur.com/mCapHNr.jpg"> <img src="https://imgur.com/4mZdxc8.jpg"> <img src="https://imgur.com/x4ikBPI.jpg">
 <br/>
-## Sistemas Operativos compatibles  
+
+## Versiones de Windows compatibles  
 
 
 |     S.O      |   Estado      |
@@ -19,13 +20,23 @@
 | Windows 7    | Compatible    |
 | Windows XP   | Compatible    |
 
-## Instalacion 
 
-# Metodo 1
+## Distribuciones de Linux compatibles  
+
+
+| Distribucion |   Estado      |
+|--------------|---------------| 
+| Ubuntu       | Compatible    |
+| Debian       | Compatible    |
+| Linux Mint   | Compatible    |
+
+# Instalacion 
+
+## Metodo 1
 
 * Ir a Code y dar click en Download ZIP
 
-# Metodo 2
+## Metodo 2
 
 * git clone https://github.com/wrrulos/CITTZ.git
 
@@ -41,7 +52,7 @@
 
 ## Screenshots
 
-<img src="https://imgur.com/4iF5eiK.jpg">
+<img src="https://github.com/wrrulos/CITTZ/blob/main/img-github/cittz-linux.png">
 
 ## Tutorial 
 
