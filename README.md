@@ -9,7 +9,7 @@
 <img src="https://imgur.com/TAuS5PE.jpg"> <img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg"> <img src="https://imgur.com/mCapHNr.jpg"> <img src="https://imgur.com/4mZdxc8.jpg"> <img src="https://imgur.com/x4ikBPI.jpg">
 <br/>
 
-## Versiones de Windows compatibles.
+# Versiones de Windows compatibles.
 
 
 |     S.O      |   Estado      |
@@ -33,19 +33,19 @@
 
 * Ejecutar CITTZ.bat
 
-## Screenshots
+# Screenshots
 
 <img src="https://github.com/wrrulos/CITTZ/blob/main/img-github/cittz-linux.png">
 
-## Tutorial 
+# Tutorial 
 
 <p> No disponible.</p>
 
-## Contribuidores: 
+# Contribuidores: 
 
 - <a href="https://github.com/oscarsanchezt"> Osososo </a>
 
-## Licencia 
+# Licencia 
 
 MIT License
 
