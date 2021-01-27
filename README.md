@@ -1,4 +1,4 @@
-# CITTZ 
+# CITTZ v0.1
 <h3> Herramienta de recuperacion de contraseñas de wifi</h3>
 <br/>
 <p align="center">
@@ -9,7 +9,7 @@
 <img src="https://imgur.com/TAuS5PE.jpg"> <img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg"> <img src="https://imgur.com/mCapHNr.jpg"> <img src="https://imgur.com/4mZdxc8.jpg"> <img src="https://imgur.com/x4ikBPI.jpg">
 <br/>
 
-## Versiones de Windows compatibles  
+## Versiones de Windows compatibles.
 
 
 |     S.O      |   Estado      |
@@ -20,35 +20,18 @@
 | Windows 7    | Compatible    |
 | Windows XP   | Compatible    |
 
+# Instalación y uso de CITTZ.
 
-## Distribuciones de Linux compatibles  
+* Descargar CITTZ en cualquiera de los lenguajes disponibles (Batch y Python)
 
+## Python
 
-| Distribucion |   Estado      |
-|--------------|---------------| 
-| Ubuntu       | Compatible    |
-| Debian       | Compatible    |
-| Linux Mint   | Compatible    |
+* Ejecutar dependencias.bat
+* Ejecutar CITTZ.py
 
-# Instalacion 
+## Batch
 
-## Metodo 1
-
-* Ir a Code y dar click en Download ZIP
-
-## Metodo 2
-
-* git clone https://github.com/wrrulos/CITTZ.git
-
-# Novedades (v1.2)
-
-**1) Compatiblidad**
-
-* CITTZ ahora es compatible con Windows y Linux.
-
-**2) Apariencia**
-
-* CITTZ ahora tiene un nuevo menu. (Proximamente el menu en windows tendrá colores)
+* Ejecutar CITTZ.bat
 
 ## Screenshots
 
