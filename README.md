@@ -2,7 +2,7 @@
 <h3> Herramienta de recuperacion de contraseñas de wifi</h3>
 <br/>
 <p align="center">
-<img src="https://imgur.com/t8H61TE.jpg" title="CITTZ">
+<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/CITTZ.png" title="CITTZ">
 </p>
 <br/>
 
@@ -35,7 +35,13 @@
 
 # Screenshots
 
-<img src="https://github.com/wrrulos/CITTZ/blob/main/img-github/cittz-linux.png">
+## Batch
+
+<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/Batch.png">
+
+## Python
+
+<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/Python.png">
 
 # Tutorial 
 
