@@ -37,11 +37,11 @@
 
 ## Batch
 
-<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/Batch.png">
+<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/Batch.PNG">
 
 ## Python
 
-<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/Python.png">
+<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/Python.PNG">
 
 # Tutorial 
 
