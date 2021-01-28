@@ -34,10 +34,6 @@
 
 <p> No disponible.</p>
 
-# Contribuidores: 
-
-- <a href="https://github.com/oscarsanchezt"> Osososo </a>
-
 # Licencia 
 
 MIT License
