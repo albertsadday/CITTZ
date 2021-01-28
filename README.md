@@ -20,16 +20,7 @@
 | Windows 7    | Compatible    |
 | Windows XP   | Compatible    |
 
-# Instalación y uso de CITTZ.
-
-* Descargar CITTZ en cualquiera de los lenguajes disponibles (Batch y Python)
-
-## Python
-
-* Ejecutar dependencias.bat
-* Ejecutar CITTZ.py
-
-## Batch
+# Como usar.
 
 * Ejecutar CITTZ.bat
 
@@ -38,10 +29,6 @@
 ## Batch
 
 <img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/Batch.PNG">
-
-## Python
-
-<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/Python.PNG">
 
 # Tutorial 
 
