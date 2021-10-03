@@ -1,6 +1,8 @@
-# CITTZ v1.0
-<h3> Herramienta de recuperacion de contraseñas de WiFi</h3>
+# 🌀 CITTZ
+
+<h3> Herramienta para activar cualquier version de Windows 10 totalmente gratis y seguro  </h3>
 <br/>
+</br>
 <p align="center">
 <img src="https://github.com/wrrulos/Imagenes-Github/blob/main/CITTZ/CITTZ.png" title="CITTZ">
 </p>
@@ -23,7 +25,7 @@
 
 ## 📸 Screenshots
 
-<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/CITTZ/Batch.png">
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/CITTZ/Batch.PNG">
 
 ## 🎞 Video 
 
