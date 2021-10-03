@@ -1,36 +1,31 @@
-# CITTZ v0.1
-<h3> Herramienta de recuperacion de contraseñas de wifi</h3>
+# CITTZ v1.0
+<h3> Herramienta de recuperacion de contraseñas de WiFi</h3>
 <br/>
 <p align="center">
-<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/CITTZ.png" title="CITTZ">
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/CITTZ/CITTZ.png" title="CITTZ">
 </p>
 <br/>
 
-<img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg"> <img src="https://imgur.com/mCapHNr.jpg"> <img src="https://imgur.com/4mZdxc8.jpg"> <img src="https://imgur.com/x4ikBPI.jpg">
-<br/>
+# 🛠 Caracteristicas
 
-# Versiones de Windows compatibles.
+* Extrae las contraseñas guardadas de las redes WiFi en el equipo.
 
+## 💻 Versiones de Windows compatibles:
 
-|     S.O      |   Estado      |
-|--------------|---------------| 
-| Windows 10   | Compatible    |
-| Windows 8.1  | Compatible    |
-| Windows 8    | Compatible    |
-| Windows 7    | Compatible    |
-| Windows XP   | Compatible    |
+* ✅ Windows 10
+* ✅ Windows 8.1
+* ✅ Windows 8
+* ✅ Windows 7
 
-# Como usar.
+# 🕹 Ejecutar
 
-* Ejecutar CITTZ.bat
+* Ejecutar CITTZ.bat como administrador
 
-# Screenshots
+## 📸 Screenshots
 
-## Batch
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/CITTZ/Batch.png">
 
-<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/Batch.PNG">
-
-# Tutorial 
+## 🎞 Video 
 
 <p> No disponible.</p>
 
