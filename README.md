@@ -1,6 +1,6 @@
 # 🌀 CITTZ
 
-<h3> Herramienta para activar cualquier version de Windows 10 totalmente gratis y seguro  </h3>
+<h3>  CITTZ es una herramienta de recuperacion de contraseñas de WiFi para Windows  </h3>
 <br/>
 </br>
 <p align="center">
